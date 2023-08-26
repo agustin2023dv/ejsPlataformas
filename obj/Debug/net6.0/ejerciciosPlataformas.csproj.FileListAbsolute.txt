@@ -1,0 +1,14 @@
+C:\Users\agust\source\repos\ejerciciosPlataformas\bin\Debug\net6.0\ejerciciosPlataformas.exe
+C:\Users\agust\source\repos\ejerciciosPlataformas\bin\Debug\net6.0\ejerciciosPlataformas.deps.json
+C:\Users\agust\source\repos\ejerciciosPlataformas\bin\Debug\net6.0\ejerciciosPlataformas.runtimeconfig.json
+C:\Users\agust\source\repos\ejerciciosPlataformas\bin\Debug\net6.0\ejerciciosPlataformas.dll
+C:\Users\agust\source\repos\ejerciciosPlataformas\bin\Debug\net6.0\ejerciciosPlataformas.pdb
+C:\Users\agust\source\repos\ejerciciosPlataformas\obj\Debug\net6.0\ejerciciosPlataformas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\source\repos\ejerciciosPlataformas\obj\Debug\net6.0\ejerciciosPlataformas.AssemblyInfoInputs.cache
+C:\Users\agust\source\repos\ejerciciosPlataformas\obj\Debug\net6.0\ejerciciosPlataformas.AssemblyInfo.cs
+C:\Users\agust\source\repos\ejerciciosPlataformas\obj\Debug\net6.0\ejerciciosPlataformas.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\ejerciciosPlataformas\obj\Debug\net6.0\ejerciciosPlataformas.dll
+C:\Users\agust\source\repos\ejerciciosPlataformas\obj\Debug\net6.0\refint\ejerciciosPlataformas.dll
+C:\Users\agust\source\repos\ejerciciosPlataformas\obj\Debug\net6.0\ejerciciosPlataformas.pdb
+C:\Users\agust\source\repos\ejerciciosPlataformas\obj\Debug\net6.0\ejerciciosPlataformas.genruntimeconfig.cache
+C:\Users\agust\source\repos\ejerciciosPlataformas\obj\Debug\net6.0\ref\ejerciciosPlataformas.dll
